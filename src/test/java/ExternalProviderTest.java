@@ -1,10 +1,12 @@
-import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
 
 /**
  * Created by thorweinreich on 13.11.16.
  */
+package test.java;
+
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+
 public class ExternalProviderTest {
 
     @Test
