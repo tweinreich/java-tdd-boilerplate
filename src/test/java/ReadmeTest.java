@@ -1,3 +1,8 @@
+/**
+ * Created by thorweinreich on 12.11.16.
+ */
+package test.java;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -5,9 +10,6 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
-/**
- * Created by thorweinreich on 12.11.16.
- */
 public class ReadmeTest {
 
 
