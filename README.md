@@ -17,3 +17,6 @@ Finally, execute **Readme.java** for some basic info.
 
 Finally there's nothing else to say then: 
 Happy Testing ;-)
+
+## Troubleshooting
+* if Eclipse (experienced with Neon) doesn't want to get the mockito imports, just add the [2.0.2 jar](https://mvnrepository.com/artifact/org.mockito/mockito-all/2.0.2-beta) manually to the classpath.
