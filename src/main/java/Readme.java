@@ -1,6 +1,8 @@
 /**
  * Created by thorweinreich on 12.11.16.
  */
+package main.java;
+
 public class Readme {
 
 
