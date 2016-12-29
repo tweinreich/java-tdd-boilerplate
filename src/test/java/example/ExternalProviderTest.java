@@ -2,7 +2,7 @@
 /**
  * Created by thorweinreich on 13.11.16.
  */
-package test.java;
+package example;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
