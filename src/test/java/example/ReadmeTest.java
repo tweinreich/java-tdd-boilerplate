@@ -1,7 +1,7 @@
 /**
  * Created by thorweinreich on 12.11.16.
  */
-package test.java;
+package example;
 
 import org.junit.Test;
 

@@ -1,9 +1,9 @@
 /**
  * Created by thorweinreich on 13.11.16.
  */
-package main.java;
+package example;
 
-public class ExternalProvider {
+class ExternalProvider {
     private String ressource = "This is an example for an external ressource that could be mocked";
     private String resource;
 
